@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aouyang2299
 - 👀 I’m interested in applied mathematics and statistics.
-- 🌱 I’m currently learning R Studio and Jasp.
-- 💞️ I’m looking to collaborate on data analysis projects
+- 🌱 I’m learned a bit of R Studio and Jasp. I am also learning HTML and CSS.
+- 💞️ I’m looking to collaborate on data analysis projects and any opportunities to code.
 - 📫 How to reach me - ouyanga@bxscience.edu
 
 <!---
