@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aouyang2299
+- 👋 Hi, I’m Andy Ouyang.
 - 👀 I’m interested in applied mathematics and statistics.
 - 🌱 I’m learned a bit of R Studio and Jasp. I am also learning HTML and CSS.
 - 💞️ I’m looking to collaborate on data analysis projects and any opportunities to code.
