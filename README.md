@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Andy Ouyang.
-- 👀 I’m interested in applied mathematics and statistics.
-- 🌱 I’m learned a bit of R Studio and Jasp. I am also learning HTML and CSS.
+- 👀 I’m interested in statistics and programming.
+- 🌱 I know how to code in Python and R. 
 - 💞️ I’m looking to collaborate on data analysis projects and any opportunities to code.
-- 📫 How to reach me - ouyanga@bxscience.edu
+- 📫 How to reach me - andyo@andrew.cmu.edu
 
 <!---
 aouyang2299/aouyang2299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
