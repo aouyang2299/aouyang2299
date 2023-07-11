@@ -1,7 +1,5 @@
 Andy Ouyang, StatML @ CMU
-
 Languages: Python, R
-
 Email: andyo@andrew.cmu.edu
 
 <!---
